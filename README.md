@@ -1,7 +1,6 @@
 # Machine Learning Models 
 
-This repository contains the implementation of Machine Learning exercises from Coursera's Andrew Ng course on Machine Learning.
-The models are implemented using python language. The models are developed from scratch as well as using the Scikit-learn Library.
+The repository maintained to keep my hands dirty over the wide range of machine learning models in practice used in predictive analysis, Data Science and various appllications. This repository contains the implementation of Machine Learning models using python and its libraries.These models are implemented using python language. The models are developed from scratch as well as using the Scikit-learn Library.
 
 ### The libraries used are:
   - Scikit-Learn
@@ -14,3 +13,10 @@ The models are implemented using python language. The models are developed from 
   
   
  ***This is currently under development.***
+
+ ***TODO :***
+    ***- K-means***
+    ***- K nn***
+    ***- Naive Bayes***
+    ***- XGBoost***
+    ***- SGD Classifier***
