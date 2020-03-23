@@ -14,7 +14,7 @@ The repository maintained to keep pracitce over the wide range of machine learni
   
  ***This is currently under development.***
 
-    - ***TODO :***
+    - TODO :
         - K-means
         - K nn
         - Naive Bayes
