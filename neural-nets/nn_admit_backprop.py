@@ -1,16 +1,13 @@
 import numpy as np
 from data_prep import features, targets, features_test, targets_test
+
 '''
-This consists the updation of weights
-on the neural network similar to nn_admit
+This consists the updation of weights using backpropagation on the neural network similar to nn_admit
 '''
 
 np.random.seed(21)
 
 def sigmoid(x):
-    """
-    Calculate sigmoid
-    """
     return 1 / (1 + np.exp(-x))
 
 
@@ -40,29 +37,20 @@ for e in range(epochs):
                                 weights_hidden_output))
 
         ## Backward pass ##
-        # TODO: Calculate the network's prediction error
         error = y - output
-
-        # TODO: Calculate error term for the output unit
         output_error_term = error * output * (1 - output)
 
         ## propagate errors to hidden layer
+       hidden_error = np.dot(output_error_term, weights_hidden_output)
 
-        # TODO: Calculate the hidden layer's contribution to the error
-        hidden_error = np.dot(output_error_term, weights_hidden_output)
-
-        # TODO: Calculate the error term for the hidden layer
         hidden_error_term = hidden_error * hidden_output * (1 - hidden_output)
 
-        # TODO: Update the change in weights
         del_w_hidden_output += output_error_term * hidden_output
         del_w_input_hidden += hidden_error_term * x[:, None]
 
-    # TODO: Update weights
     weights_input_hidden += learnrate * del_w_input_hidden / n_records
     weights_hidden_output += learnrate * del_w_hidden_output / n_records
 
-    # Printing out the mean square error on the training set
     if e % (epochs / 10) == 0:
         hidden_output = sigmoid(np.dot(x, weights_input_hidden))
         out = sigmoid(np.dot(hidden_output,
