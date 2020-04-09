@@ -29,7 +29,6 @@ for e in range(epochs):
     del_w_hidden_output = np.zeros(weights_hidden_output.shape)
     for x, y in zip(features.values, targets):
         ## Forward pass ##
-        # TODO: Calculate the output
         hidden_input = np.dot(x, weights_input_hidden)
         hidden_output = sigmoid(hidden_input)
 
