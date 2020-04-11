@@ -26,9 +26,10 @@ The repository maintained to keep pracitce over the wide range of machine learni
    - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/backprop_example.py">Backpropagation</a><br/>
    - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/gradient_example.py">Gradient Descent</a><br/>
    - Student Admission Script (.py files):
-    - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/data_prep.py">Data Preparation</a><br/>
-    - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/nn_admit.py">N/N without Learning</a><br/>
-    - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/nn_admit_backprop.py">N/N with Learning</a><br/>
+      - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/data_prep.py">Data Preparation</a><br/>
+      - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/nn_admit.py">N/N without Learning</a><br/>
+      - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/nn_admit_backprop.py">N/N with Learning</a><br/>
+      
  ***This is currently under development.***
 
     - TODO :
