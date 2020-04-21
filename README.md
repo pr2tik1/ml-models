@@ -20,11 +20,10 @@ The repository maintained to keep pracitce over the wide range of machine learni
     - <a href="https://github.com/pr2tik1/ml_models/blob/master/classifier/logistic_multi_class.ipynb">Logistic Regression(Multi Class)</a><br/>
 
  - Neural Networks : 
-   - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/StudentAdmissions.ipynb">Student Admission Notebook</a><br/>
-   - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/mnist-digits.ipynb">MNIST Digits Recognition (From Scratch)</a><br/>
    - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/mlp_example.py">Multi Layer Perceptron</a><br/>
    - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/backprop_example.py">Backpropagation</a><br/>
    - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/gradient_example.py">Gradient Descent</a><br/>
+   - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/StudentAdmissions.ipynb">Student Admission Notebook</a><br/>
    - Student Admission Script (.py files):
       - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/data_prep.py">Data Preparation</a><br/>
       - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/nn_admit.py">N/N without Learning</a><br/>
