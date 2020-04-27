@@ -44,7 +44,7 @@ The repository maintained to keep practice over the wide range of machine learni
 
 Pratik Kumar : [LinkedIn](https://www.linkedin.com/in/pratik-kumar98/) 
 
-Project Link: [git](https://github.com/pr2tik1/ml-case-studies)
+Project Link: [git](https://github.com/pr2tik1/)
   
  ***This repository is currently under development.***
  
