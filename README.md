@@ -34,10 +34,17 @@ The repository maintained to keep practice over the wide range of machine learni
       - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/nn_admit_backprop.py">N/N with Learning</a><br/>
     
   - AWS SageMaker:
-    - Population Segemntation of US Census data
+    - [Population Segemntation of US Census data](https://github.com/pr2tik1/ml-case-studies/blob/master/sagemaker/Pop_Segmentation_Exercise.ipynb)
     - Fraud Detection
     - Time Series Forecasting
   
+ 
+
+## Contact
+
+Pratik Kumar : [LinkedIn](https://www.linkedin.com/in/pratik-kumar98/) 
+
+Project Link: [git](https://github.com/pr2tik1/ml-case-studies)
   
  ***This repository is currently under development.***
  
