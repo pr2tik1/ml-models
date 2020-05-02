@@ -18,10 +18,13 @@ The repository maintained to keep practice over the wide range of machine learni
   - Regression :
     - <a href="https://github.com/pr2tik1/ml_models/blob/master/regressor/linear_reg_one_var.ipynb">Univariate Linear Regression</a><br/>
     - <a href="https://github.com/pr2tik1/ml_models/blob/master/regressor/linear_reg_multi.ipynb">Multivariate Linear Regression</a><br/>
-  
+    - <a href="https://github.com/pr2tik1/ml_models/blob/master/regressor/houseprice_predicion.ipynb">House Price Prediction</a><br/>
+    
   - Classification :
     - <a href="https://github.com/pr2tik1/ml_models/blob/master/classifier/logistic_binary_class.ipynb">Logistic Regression (Binary Class)</a><br/>
     - <a href="https://github.com/pr2tik1/ml_models/blob/master/classifier/logistic_multi_class.ipynb">Logistic Regression (Multi Class)</a><br/>
+    - <a href="https://github.com/pr2tik1/ml_models/blob/master/classifier/titanic-eda.ipynb">Titanic Survival Prediction</a><br/>
+    - <a href="https://github.com/pr2tik1/ml_models/blob/master/classifier/Loan-status.ipynb">Loan Status Prediction</a><br/>
 
  - Neural Networks : 
    - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/mlp_example.py">Multi Layer Perceptron</a><br/>
@@ -40,7 +43,7 @@ The repository maintained to keep practice over the wide range of machine learni
   
  
 
-## Contact
+## Author
 
 Pratik Kumar : [LinkedIn](https://www.linkedin.com/in/pratik-kumar98/) 
 
