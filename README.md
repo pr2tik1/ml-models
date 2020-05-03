@@ -1,6 +1,6 @@
 # Machine Learning Case Studies
 
-The repository maintained to keep practice over the wide range of machine learning and deep learning models used in predictive analysis, data Science and various applications. The models are developed from scratch as well as using libraries  such as Scikit-learn.
+The repository maintained to keep practice over the wide range of machine learning and deep learning models used in predictive analysis, Data Science and various applications. The models are developed from scratch as well as using libraries  such as Scikit-learn.
 
 ### The libraries used are:
   - Scikit-Learn
@@ -40,14 +40,8 @@ The repository maintained to keep practice over the wide range of machine learni
     - [Population Segemntation of US Census data](https://github.com/pr2tik1/ml-case-studies/blob/master/sagemaker/Pop_Segmentation.ipynb)
     - [Fraud Detection](https://github.com/pr2tik1/ml-case-studies/blob/master/sagemaker/fraud-detection.ipynb)
     - Time Series Forecasting
-  
  
 
 ## Author
 
 Pratik Kumar : [LinkedIn](https://www.linkedin.com/in/pratik-kumar98/) 
-
-Project Link: [git](https://github.com/pr2tik1/)
-  
- ***This repository is currently under development.***
- 
