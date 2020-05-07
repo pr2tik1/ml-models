@@ -1,6 +1,6 @@
 # AWS SageMaker Projects
 
-Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly. SageMaker removes the heavy lifting from each step of the machine learning process to make it easier to develop high quality models.
+Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly. SageMaker removes the heavy lifting from each step of the machine learning process to make it easier to develop high quality models. 
 
 The primary steps are:
 - Download data
@@ -37,3 +37,5 @@ pandas
 # Caution
 Delete the endpoint after the process of prediction/analysis is done.
 
+# Acknowledgements
+These are my project submissions at Udacity's course Machine Learning Engineer Nanodegree.
