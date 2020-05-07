@@ -39,7 +39,7 @@ The repository maintained to keep practice over the wide range of machine learni
   - AWS SageMaker:
     - [Population Segemntation of US Census data](https://github.com/pr2tik1/ml-case-studies/blob/master/sagemaker/Pop_Segmentation.ipynb)
     - [Fraud Detection](https://github.com/pr2tik1/ml-case-studies/blob/master/sagemaker/fraud-detection.ipynb)
-    - Time Series Forecasting
+    - [Time Series Forecasting](https://github.com/pr2tik1/ml-case-studies/blob/master/sagemaker/energy-consumption.ipynb)
   
  
 
