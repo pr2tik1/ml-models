@@ -129,8 +129,6 @@ class SentimentNetwork:
     
     def train(self, training_reviews_raw, training_labels):
 
-        ## New for Project 5: pre-process training reviews so we can deal 
-        #                     directly with the indices of non-zero inputs
         training_reviews = list()
         for review in training_reviews_raw:
             indices = set()
@@ -156,23 +154,13 @@ class SentimentNetwork:
             review = training_reviews[i]
             label = training_labels[i]
             
-            #### Implement the forward pass here ####
-            ### Forward pass ###
-
-            ## New for Project 5: Removed call to 'update_input_layer' function
-            #                     because 'layer_0' is no longer used
-
-            # Hidden layer
-            ## New for Project 5: Add in only the weights for non-zero items
             self.layer_1 *= 0
             for index in review:
                 self.layer_1 += self.weights_0_1[index]
 
             # Output layer
-            ## New for Project 5: changed to use 'self.layer_1' instead of 'local layer_1'
             layer_2 = self.sigmoid(self.layer_1.dot(self.weights_1_2))            
             
-            #### Implement the backward pass here ####
             ### Backward pass ###
 
             # Output error
@@ -242,8 +230,6 @@ class SentimentNetwork:
         Returns a POSITIVE or NEGATIVE prediction for the given review.
         """
         # Run a forward pass through the network, like in the "train" function.
-        
-
         # Hidden layer
 
         self.layer_1 *= 0
