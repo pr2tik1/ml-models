@@ -28,18 +28,18 @@ The repository maintained to keep practice over the wide range of machine learni
     - <a href="https://github.com/pr2tik1/ml_models/blob/master/classifier/Loan-status.ipynb">Loan Status Prediction</a><br/>
 
   - Deep Learning : 
-   - Neural Netowrks :
-   - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/mlp_example.py">Multi Layer Perceptron</a><br/>
-   - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/backprop_example.py">Backpropagation</a><br/>
-   - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/gradient_example.py">Gradient Descent</a><br/>
-   - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/StudentAdmissions.ipynb">Student Admission Notebook</a><br/>
-   - Student Admission Script (.py files):
-      - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/data_prep.py">Data Preparation</a><br/>
-      - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/nn_admit.py">N/N without Learning</a><br/>
-      - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/nn_admit_backprop.py">N/N with Learning</a><br/>
-   - Sentimental Analysis :
-   - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/movie-sentiment/sentiment-analysis.ipynb">Senitmental Analysis over Movie Recommendation</a><br/>
-    
+     - Neural Netowrks :
+         - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/mlp_example.py">Multi Layer Perceptron</a><br/>
+         - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/backprop_example.py">Backpropagation</a><br/>
+         - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/gradient_example.py">Gradient Descent</a><br/>
+         - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/StudentAdmissions.ipynb">Student Admission Notebook</a><br/>
+     - Student Admission Script (.py files):
+        - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/data_prep.py">Data Preparation</a><br/>
+        - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/nn_admit.py">N/N without Learning</a><br/>
+        - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/nn_admit_backprop.py">N/N with Learning</a><br/>
+    - Sentimental Analysis :
+      - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/movie-sentiment/sentiment-analysis.ipynb">Senitmental Analysis over Movie Recommendation</a><br/>
+
   - AWS SageMaker:
     - [Population Segemntation of US Census data](https://github.com/pr2tik1/ml-case-studies/blob/master/sagemaker/Pop_Segmentation.ipynb)
     - [Fraud Detection](https://github.com/pr2tik1/ml-case-studies/blob/master/sagemaker/fraud-detection.ipynb)
