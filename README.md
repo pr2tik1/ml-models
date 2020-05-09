@@ -14,7 +14,8 @@ The repository maintained to keep practice over the wide range of machine learni
   - mxnet
   - PyTorch
   
- ## Directory:
+## Directory:
+  
   - Regression :
     - <a href="https://github.com/pr2tik1/ml_models/blob/master/regressor/linear_reg_one_var.ipynb">Univariate Linear Regression</a><br/>
     - <a href="https://github.com/pr2tik1/ml_models/blob/master/regressor/linear_reg_multi.ipynb">Multivariate Linear Regression</a><br/>
@@ -26,7 +27,8 @@ The repository maintained to keep practice over the wide range of machine learni
     - <a href="https://github.com/pr2tik1/ml_models/blob/master/classifier/titanic-eda.ipynb">Titanic Survival Prediction</a><br/>
     - <a href="https://github.com/pr2tik1/ml_models/blob/master/classifier/Loan-status.ipynb">Loan Status Prediction</a><br/>
 
- - Neural Networks : 
+  - Deep Learning : 
+   - Neural Netowrks :
    - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/mlp_example.py">Multi Layer Perceptron</a><br/>
    - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/backprop_example.py">Backpropagation</a><br/>
    - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/gradient_example.py">Gradient Descent</a><br/>
@@ -35,12 +37,20 @@ The repository maintained to keep practice over the wide range of machine learni
       - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/data_prep.py">Data Preparation</a><br/>
       - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/nn_admit.py">N/N without Learning</a><br/>
       - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/nn_admit_backprop.py">N/N with Learning</a><br/>
+   - Sentimental Analysis :
+   - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/movie-sentiment/sentiment-analysis.ipynb">Senitmental Analysis over Movie Recommendation</a><br/>
     
   - AWS SageMaker:
     - [Population Segemntation of US Census data](https://github.com/pr2tik1/ml-case-studies/blob/master/sagemaker/Pop_Segmentation.ipynb)
     - [Fraud Detection](https://github.com/pr2tik1/ml-case-studies/blob/master/sagemaker/fraud-detection.ipynb)
     - [Time Series Forecasting](https://github.com/pr2tik1/ml-case-studies/blob/master/sagemaker/energy-consumption.ipynb)
   
-## Author
 
+## Usage 
+The notebooks and scripts can be used for reference and educational/research purposes.
+```
+Download the zip file or type: 
+git clone https://github.com/pr2tik1/ml-case-studies.git
+```
+## Author
 Pratik Kumar : [LinkedIn](https://www.linkedin.com/in/pratik-kumar98/) 
