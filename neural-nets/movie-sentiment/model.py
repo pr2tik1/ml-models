@@ -111,7 +111,6 @@ class SentimentNetwork:
         self.weights_1_2 = np.random.normal(0.0, self.output_nodes**-0.5, 
                                                 (self.hidden_nodes, self.output_nodes))
         
-        ## New for Project 5: Removed self.layer_0; added self.layer_1
         # The input layer, a two-dimensional matrix with shape 1 x hidden_nodes
         self.layer_1 = np.zeros((1,hidden_nodes))
     
@@ -128,7 +127,9 @@ class SentimentNetwork:
         return output * (1 - output)
     
     def train(self, training_reviews_raw, training_labels):
-
+        train_loss = 0.0
+        valid_loss = 0.0
+        
         training_reviews = list()
         for review in training_reviews_raw:
             indices = set()
@@ -148,6 +149,7 @@ class SentimentNetwork:
         
         # loop through all the given reviews and run a forward and backward pass,
         # updating weights for every item
+        
         for i in range(len(training_reviews)):
             
             # Get the next review and its correct label
@@ -182,7 +184,6 @@ class SentimentNetwork:
                 correct_so_far += 1
             elif(layer_2 < 0.5 and label == 'NEGATIVE'):
                 correct_so_far += 1
-            
             # For debug purposes, print out our prediction accuracy and speed 
             # throughout the training process. 
             elapsed_time = float(time.time() - start)
@@ -194,6 +195,7 @@ class SentimentNetwork:
                              + " Training Accuracy:" + str(correct_so_far * 100 / float(i+1))[:4] + "%")
             if(i % 2500 == 0):
                 print("")
+                
     
     def test(self, testing_reviews, testing_labels):
         """
