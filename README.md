@@ -39,6 +39,8 @@ The repository maintained to keep practice over the wide range of machine learni
         - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/nn_admit_backprop.py">N/N with Learning</a><br/>
     - Sentimental Analysis :
       - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-nets/movie-sentiment/sentiment-analysis.ipynb">Senitmental Analysis over Movie Recommendation</a><br/>
+    - Multi-Linear Regression Analysis :
+      - <a href="https://github.com/pr2tik1/ml-case-studies/blob/master/neural-nets/house-price/house-price.ipynb">Advanced Linear Regression using neural network</a><br/>
 
   - AWS SageMaker:
     - [Population Segemntation of US Census data](https://github.com/pr2tik1/ml-case-studies/blob/master/sagemaker/Pop_Segmentation.ipynb)
