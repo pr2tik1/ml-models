@@ -1,6 +1,6 @@
 # Machine Learning Case Studies
 
-Machine Learning models used to do predictive analysis over data sets from Kaggle, Google Datasearch, etc. The repository is maintained to keep practice over the wide range of machine learning and deep learning models used in data science and artificial intelligence. The models are developed from scratch as well as suitable libraries and frameworks.
+Machine Learning models developed for predictive analysis over data sets from Kaggle, Google Datasearch, etc. The repository is maintained to keep practice over the wide range of machine learning and deep learning models. The models are developed from scratch as well as suitable libraries and frameworks.
 
 ### Pre-requisites:
 Install following libraries before usage,
