@@ -1,4 +1,4 @@
-# Machine Learning Case Studies
+# Machine Learning and Deep Learning Case Studies
 
 Machine Learning models developed for predictive analysis over data sets from Kaggle, Google Datasearch, etc. The repository is maintained to keep practice over the wide range of machine learning and deep learning models. The models are developed from scratch as well as suitable libraries and frameworks.
 
@@ -49,6 +49,9 @@ Install following libraries before usage,
     - [Fraud Detection](https://github.com/pr2tik1/ml-case-studies/blob/master/aws-sagemaker/fraud-detection.ipynb)
     - [Time Series Forecasting](https://github.com/pr2tik1/ml-case-studies/blob/master/aws-sagemaker/energy-consumption.ipynb)
   
+  - CS231n:
+  	- Course assignmnent solutions.
+	- More info [here](https://github.com/pr2tik1/ml-case-studies/tree/master/cs231n-assignments).    
 
 ## Usage 
 The notebooks and scripts can be used for reference and educational/research purposes, to install
