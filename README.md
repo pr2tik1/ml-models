@@ -54,13 +54,18 @@ Install following libraries before usage,
 	- More info [here](https://github.com/pr2tik1/ml-case-studies/tree/master/cs231n-assignments).    
 
 ## Usage 
-The notebooks and scripts can be used for reference and educational/research purposes, to install
+The notebooks and scripts can be used for reference and educational/research purposes, to install download directly the zip file or type this in terminal,
+
 ```
-Download directly the zip file 
-
-or type this in terminal,
-
 git clone https://github.com/pr2tik1/ml-case-studies.git
 ```
 ## Author
+
 Pratik Kumar : [LinkedIn](https://www.linkedin.com/in/pratik-kumar98/) 
+
+## References:
+
+-	Udacity
+-	CS231n 
+-	Kaggle
+-	Coursera
