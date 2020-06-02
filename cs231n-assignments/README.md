@@ -15,9 +15,9 @@ Issues, contributions and suggestions are welcome.
 | [Assignment 3]() |  RNNs, LSTM, GAN |
 
 ## Checklist:
-- [ ] Assignment 1 : /05/2020 (D.O.C.)
-- [ ] Assignment 2 : /06/2020 (D.O.C.)
-- [ ] Assignment 3 : /06/2020 (D.O.C.)
+- [ ] Assignment 1 : W.I.P
+- [ ] Assignment 2 : W.I.P
+- [ ] Assignment 3 : W.I.P
  
 ( D.O.C. : Date of Completion)
 
