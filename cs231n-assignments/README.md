@@ -10,9 +10,9 @@ Issues, contributions and suggestions are welcome.
 
 | Assignments | Description |
 | --- | --- |
-| [Assignment 1]() |  kNN, SVM, Softmax, Two layer neural network |
-| [Assignment 2]() |  Neural Networks, Convolutional Neural Networks |
-| [Assignment 3]() |  RNNs, LSTM, GAN |
+| [Assignment 1](https://github.com/pr2tik1/ml-case-studies/tree/master/cs231n-assignments/assignment1_colab) |  kNN, SVM, Softmax, Two layer neural network |
+| [Assignment 2](https://github.com/pr2tik1/ml-case-studies/tree/master/cs231n-assignments/assignment2_colab) |  Neural Networks, Convolutional Neural Networks |
+| [Assignment 3](https://github.com/pr2tik1/ml-case-studies/tree/master/cs231n-assignments/assignment3_colab) |  RNNs, LSTM, GAN |
 
 ## Checklist:
 - [ ] Assignment 1 : W.I.P
