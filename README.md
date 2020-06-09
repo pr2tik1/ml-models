@@ -50,7 +50,7 @@ Install following libraries before usage,
     - [Time Series Forecasting](https://github.com/pr2tik1/ml-case-studies/blob/master/aws-sagemaker/energy-consumption.ipynb)
   
   - CS231n:
-  	- Course assignmnent solutions.
+  	- Course assignmnent solutions.(W.I.P.)
 	- More info [here](https://github.com/pr2tik1/ml-case-studies/tree/master/cs231n-assignments).    
 
 ## Usage 
@@ -64,7 +64,7 @@ git clone https://github.com/pr2tik1/ml-case-studies.git
 Pratik Kumar : [LinkedIn](https://www.linkedin.com/in/pratik-kumar98/) 
 
 ## References:
-
+Many projects come under courses/training from the below platforms,
 -	Udacity
 -	CS231n 
 -	Kaggle
