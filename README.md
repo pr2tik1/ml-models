@@ -43,6 +43,8 @@ Install following libraries before usage,
       - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-networks/movie-sentiment/sentiment-analysis.ipynb">Senitmental Analysis over Movie Recommendation</a><br/>
     - Regression Analysis using MLP :
       - <a href="https://github.com/pr2tik1/ml-case-studies/blob/master/neural-networks/house-price/house-price.ipynb">Advanced Regression using neural network</a><br/>
+	- Character Level predictions using LSTM :
+      - <a href="https://github.com/pr2tik1/ml-case-studies/blob/master/neural-networks/char-LSTM/Character_Level_LSTM.ipynb">LSTM</a><br/>
 
   - AWS SageMaker:
     - [Population Segemntation of US Census data](https://github.com/pr2tik1/ml-case-studies/blob/master/aws-sagemaker/Pop_Segmentation.ipynb)
