@@ -94,28 +94,3 @@ In the IPython Notebook `ConvolutionalNetworks.ipynb` you will implement several
 
 ### Q5: PyTorch / TensorFlow on CIFAR-10 (10 points)
 For this last part, you will be working in either TensorFlow or PyTorch, two popular and powerful deep learning frameworks. **You only need to complete ONE of these two notebooks.** You do NOT need to do both, and we will _not_ be awarding extra credit to those who do.
-
-Open up either `PyTorch.ipynb` or `TensorFlow.ipynb`. There, you will learn how the framework works, culminating in training a  convolutional network of your own design on CIFAR-10 to get the best performance you can.
-
-### Submitting your work
-
-**Important**. Please make sure that the submitted notebooks have been run and the cell outputs are visible.
-
-Once you have completed all notebooks and filled out the necessary code, there are **_two_** steps you must follow to submit your assignment:
-
-**1.** If you selected Option A and worked on the assignment in Colab, open `collect_submission.ipynb` in Colab and execute the notebook cells. If you selected Option B and worked on the assignment locally, run the bash script in `assignment2` by executing `bash collectSubmission.sh`.
-
-This notebook/script will:
-
-* Generate a zip file of your code (`.py` and `.ipynb`) called `a2.zip`.
-* Convert all notebooks into a single PDF file.
-
-**Note for Option B users**. You must have (a) `nbconvert` installed with Pandoc and Tex support and (b) `PyPDF2` installed to successfully convert your notebooks to a PDF file. Please follow these [installation instructions](https://nbconvert.readthedocs.io/en/latest/install.html#installing-nbconvert) to install (a) and run `pip install PyPDF2` to install (b). If you are, for some inexplicable reason, unable to successfully install the above dependencies, you can manually convert each jupyter notebook to HTML (`File -> Download as -> HTML (.html)`), save the HTML page as a PDF, then concatenate all the PDFs into a single PDF submission using your favorite PDF viewer.
-
-If your submission for this step was successful, you should see the following display message:
-
-`### Done! Please submit a2.zip and the pdfs to Gradescope. ###`
-
-**2.** Submit the PDF and the zip file to [Gradescope](https://www.gradescope.com/courses/103764).
-
-**Note for Option A users**. Remember to download `a2.zip` and `assignment.pdf` locally before submitting to Gradescope.
