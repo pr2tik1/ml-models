@@ -21,6 +21,7 @@ Install following libraries before usage,
     - [Univariate Linear Regression](https://github.com/pr2tik1/ml_models/blob/master/regression/linear_reg_one_var.ipynb)
     - [Multivariate Linear Regression](https://github.com/pr2tik1/ml_models/blob/master/regression/linear_reg_multi.ipynb)
     - [House Price Prediction](https://github.com/pr2tik1/ml_models/blob/master/regression/houseprice_predicion.ipynb)
+    - [Kaplan-Meier estimation in Survival Analysis](https://github.com/pr2tik1/ml-case-studies/tree/master/regression/km)
     
   - Classification :
     - [Logistic Regression (Binary Class)](https://github.com/pr2tik1/ml_models/blob/master/classification/logistic_binary_class.ipynb)
