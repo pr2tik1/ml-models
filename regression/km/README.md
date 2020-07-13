@@ -21,7 +21,7 @@ More can be followed at their github repo : https://github.com/CamDavidsonPilon/
 ## Data 
 Lifetimes of political leaders around the world. View [here](https://github.com/pr2tik1/ml-case-studies/blob/master/regression/km/df.csv) or [here](https://gist.github.com/pr2tik1/0b83245926575505fd059974724652f5) in gist.
 
-Survival Function Plot:
+Survival Function Plot:<br>
 [!alttext](https://github.com/pr2tik1/ml-case-studies/blob/master/regression/km/img.png)
 
 ## Survival Function Plots and Visualizations
