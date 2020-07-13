@@ -54,7 +54,10 @@ Install following libraries before usage,
   
   - CS231n:
   	- Course assignmnent solutions.(W.I.P. 2020)
-	- More info [here](https://github.com/pr2tik1/ml-case-studies/tree/master/cs231n-assignments).    
+	- More info [here](https://github.com/pr2tik1/ml-case-studies/tree/master/cs231n-assignments)
+    
+  - PyTorch Notebooks:
+    - [Linear Regression](https://github.com/pr2tik1/ml-case-studies/blob/master/PyTorch/Linear-Regression.ipynb) 
 
 ## Usage 
 The notebooks and scripts can be used for reference and educational/research purposes, to install download directly the zip file or type this in terminal,
