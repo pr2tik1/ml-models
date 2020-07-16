@@ -16,7 +16,7 @@ Install following libraries before usage,
   - PyTorch
   
 ## Directory:
-  
+
   - Regression :
     - [Univariate Linear Regression](https://nbviewer.jupyter.org/github/pr2tik1/ml_models/blob/master/regression/linear_reg_one_var.ipynb)
     - [Multivariate Linear Regression](https://nbviewer.jupyter.org/github/pr2tik1/ml_models/blob/master/regression/linear_reg_multi.ipynb)
@@ -30,11 +30,10 @@ Install following libraries before usage,
     - [Loan Status Prediction](https://nbviewer.jupyter.org/github/pr2tik1/ml_models/blob/master/classification/Loan-status.ipynb)
 
   - Deep Learning : 
-     - Neural Networks :
-	 - [Multi Layer Perceptron](https://nbviewer.jupyter.org/github/pr2tik1/ml_models/blob/master/neural-networks/mlp_example.py)
-         - [Backpropagation](https://nbviewer.jupyter.org/github/pr2tik1/ml_models/blob/master/neural-networks/backprop_example.py)
-         - [Gradient Descent](https://nbviewer.jupyter.org/github/pr2tik1/ml_models/blob/master/neural-networks/gradient_example.py)
-         - [Student Admission Notebook](https://nbviewer.jupyter.org/github/pr2tik1/ml_models/blob/master/neural-networks/StudentAdmissions.ipynb)
+     - [Multi Layer Perceptron](https://nbviewer.jupyter.org/github/pr2tik1/ml_models/blob/master/neural-networks/mlp_example.py)
+     - [Backpropagation](https://nbviewer.jupyter.org/github/pr2tik1/ml_models/blob/master/neural-networks/backprop_example.py)
+     - [Gradient Descent](https://nbviewer.jupyter.org/github/pr2tik1/ml_models/blob/master/neural-networks/gradient_example.py)
+     - [Student Admission Notebook](https://nbviewer.jupyter.org/github/pr2tik1/ml_models/blob/master/neural-networks/StudentAdmissions.ipynb)
          
      - Student Admission Script (.py files):
         - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-networks/data_prep.py">Data Preparation</a><br/>
@@ -70,6 +69,9 @@ The notebooks and scripts can be used for reference and education purposes, to a
 ```
 git clone https://github.com/pr2tik1/ml-case-studies.git
 ```
+
+*Contributions and suggestions are welcome*
+
 ## Author
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Pratikpkb) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@pratikbaitha04)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pratik-kumar04/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/pratikkumar04/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/pr2tik1) 
