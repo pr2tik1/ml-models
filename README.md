@@ -30,8 +30,8 @@ Install following libraries before usage,
     - [Loan Status Prediction](https://nbviewer.jupyter.org/github/pr2tik1/ml_models/blob/master/classification/Loan-status.ipynb)
 
   - Deep Learning : 
-     - Neural Netowrks :
-		 - [Multi Layer Perceptron](https://nbviewer.jupyter.org/github/pr2tik1/ml_models/blob/master/neural-networks/mlp_example.py)
+     - Neural Networks :
+	 - [Multi Layer Perceptron](https://nbviewer.jupyter.org/github/pr2tik1/ml_models/blob/master/neural-networks/mlp_example.py)
          - [Backpropagation](https://nbviewer.jupyter.org/github/pr2tik1/ml_models/blob/master/neural-networks/backprop_example.py)
          - [Gradient Descent](https://nbviewer.jupyter.org/github/pr2tik1/ml_models/blob/master/neural-networks/gradient_example.py)
          - [Student Admission Notebook](https://nbviewer.jupyter.org/github/pr2tik1/ml_models/blob/master/neural-networks/StudentAdmissions.ipynb)
@@ -40,11 +40,14 @@ Install following libraries before usage,
         - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-networks/data_prep.py">Data Preparation</a><br/>
         - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-networks/nn_admit.py">N/N without Learning</a><br/>
         - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-networks/nn_admit_backprop.py">N/N with Learning</a><br/>
+	
     - Sentimental Analysis :
       - <a href="https://nbviewer.jupyter.org/github/pr2tik1/ml_models/blob/master/neural-networks/movie-sentiment/sentiment-analysis.ipynb">Senitmental Analysis over Movie Recommendation</a><br/>
+      
     - Regression Analysis using MLP :
       - <a href="https://nbviewer.jupyter.org/github/pr2tik1/ml-case-studies/blob/master/neural-networks/house-price/house-price.ipynb">Advanced Regression using neural network</a><br/>
-	- Character Level predictions using LSTM :
+    
+    - Character Level predictions using LSTM :
       - <a href="https://nbviewer.jupyter.org/github/pr2tik1/ml-case-studies/blob/master/neural-networks/char-LSTM/Character_Level_LSTM.ipynb">LSTM</a><br/>
 
   - AWS SageMaker:
