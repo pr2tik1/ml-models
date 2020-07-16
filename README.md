@@ -37,9 +37,9 @@ Install following libraries before usage,
          - [Student Admission Notebook](https://nbviewer.jupyter.org/github/pr2tik1/ml_models/blob/master/neural-networks/StudentAdmissions.ipynb)
          
      - Student Admission Script (.py files):
-        - <a href="https://nbviewer.jupyter.org/github/pr2tik1/ml_models/blob/master/neural-nets/data_prep.py">Data Preparation</a><br/>
-        - <a href="https://nbviewer.jupyter.org/github/pr2tik1/ml_models/blob/master/neural-networks/nn_admit.py">N/N without Learning</a><br/>
-        - <a href="https://nbviewer.jupyter.org/github/pr2tik1/ml_models/blob/master/neural-networks/nn_admit_backprop.py">N/N with Learning</a><br/>
+        - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-networks/data_prep.py">Data Preparation</a><br/>
+        - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-networks/nn_admit.py">N/N without Learning</a><br/>
+        - <a href="https://github.com/pr2tik1/ml_models/blob/master/neural-networks/nn_admit_backprop.py">N/N with Learning</a><br/>
     - Sentimental Analysis :
       - <a href="https://nbviewer.jupyter.org/github/pr2tik1/ml_models/blob/master/neural-networks/movie-sentiment/sentiment-analysis.ipynb">Senitmental Analysis over Movie Recommendation</a><br/>
     - Regression Analysis using MLP :
@@ -57,8 +57,11 @@ Install following libraries before usage,
 	- More info [here](https://nbviewer.jupyter.org/github/pr2tik1/ml-case-studies/tree/master/cs231n-assignments)
     
   - PyTorch Notebooks:
-    - [Linear Regression](https://nbviewer.jupyter.org/github/pr2tik1/ml-case-studies/blob/master/PyTorch/Linear-Regression.ipynb) 
-
+    - [Linear Regression](https://nbviewer.jupyter.org/github/pr2tik1/ml-case-studies/blob/master/PyTorch/Linear-Regression.ipynb)
+    - [Logistic Regression](https://nbviewer.jupyter.org/github/pr2tik1/ml-case-studies/blob/master/PyTorch/Logistic-Regression.ipynb)
+    - [Multi Layered Perceptron](https://nbviewer.jupyter.org/github/pr2tik1/ml-case-studies/blob/master/PyTorch/Neural-Network.ipynb)
+    - [CNN](https://nbviewer.jupyter.org/github/pr2tik1/ml-case-studies/blob/master/PyTorch/CNN.ipynb)
+    
 ## Usage 
 The notebooks and scripts can be used for reference and education purposes, to access download directly the zip file or type following command in terminal,
 ```
