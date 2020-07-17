@@ -61,7 +61,7 @@ Install following libraries before usage,
   - PyTorch Notebooks:
     - [Linear Regression](https://nbviewer.jupyter.org/github/pr2tik1/ml-case-studies/blob/master/PyTorch/Linear-Regression.ipynb)
     - [Logistic Regression](https://nbviewer.jupyter.org/github/pr2tik1/ml-case-studies/blob/master/PyTorch/Logistic-Regression.ipynb)
-    - [Multi Layered Perceptron](https://nbviewer.jupyter.org/github/pr2tik1/ml-case-studies/blob/master/PyTorch/Neural-Network.ipynb)
+    - [Multi Layered Perceptron](https://nbviewer.jupyter.org/github/pr2tik1/ml-case-studies/blob/master/PyTorch/Neural-Nework.ipynb)
     - [CNN](https://nbviewer.jupyter.org/github/pr2tik1/ml-case-studies/blob/master/PyTorch/CNN.ipynb)
     
 ## Usage 
