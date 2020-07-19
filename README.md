@@ -3,7 +3,7 @@
 Machine Learning models developed for predictive analysis over data sets from Kaggle, Google Datasearch, etc. The repository is maintained to keep practice over the wide range of machine learning and deep learning models. The models are developed from scratch as well as suitable libraries and frameworks.
 
 ### Pre-requisites:
-Install following libraries before usage,
+Install following libraries before using,
   - Scikit-Learn
   - Numpy
   - Pandas
@@ -54,10 +54,6 @@ Install following libraries before usage,
     - [Fraud Detection](https://nbviewer.jupyter.org/github/pr2tik1/ml-case-studies/blob/master/aws-sagemaker/fraud-detection.ipynb)
     - [Time Series Forecasting](https://nbviewer.jupyter.org/github/pr2tik1/ml-case-studies/blob/master/aws-sagemaker/energy-consumption.ipynb)
   
-  - CS231n:
-  	- Course assignmnent solutions.(W.I.P. 2020)
-	- More info [here](https://nbviewer.jupyter.org/github/pr2tik1/ml-case-studies/tree/master/cs231n-assignments)
-    
   - PyTorch Notebooks:
     - [Linear Regression](https://nbviewer.jupyter.org/github/pr2tik1/ml-case-studies/blob/master/PyTorch/Linear-Regression.ipynb)
     - [Logistic Regression](https://nbviewer.jupyter.org/github/pr2tik1/ml-case-studies/blob/master/PyTorch/Logistic-Regression.ipynb)
