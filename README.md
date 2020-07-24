@@ -15,50 +15,7 @@ Install following libraries before using,
   - mxnet
   - PyTorch
   
-## Directory:
 
-  - Regression :
-    - [Univariate Linear Regression](https://github.com/pr2tik1/ml-case-studies/blob/master/regression/linear-regression/linear_reg_one_var.ipynb)
-    - [Multivariate Linear Regression](https://github.com/pr2tik1/ml-case-studies/blob/master/regression/linear-regression/linear_reg_multi.ipynb)
-    - [House Price Prediction](https://github.com/pr2tik1/ml-case-studies/blob/master/regression/houseprice_predicion.ipynb)
-    - [Kaplan-Meier estimation in Survival Analysis](https://github.com/pr2tik1/ml-case-studies/blob/master/regression/km)
-    
-  - Classification :
-    - [Logistic Regression (Binary Class)](https://github.com/pr2tik1/ml-case-studies/tree/master/classification/logistic-regression/logistic_binary_class.ipynb)
-    - [Logistic Regression (Multi Class)](https://github.com/pr2tik1/ml-case-studies/tree/master/classification/logistic-regression/logistic_multi_class.ipynb)
-    - [Titanic Survival Prediction](https://github.com/pr2tik1/ml-case-studies/tree/master/classification/titanic-eda.ipynb)
-    - [Loan Status Prediction](https://github.com/pr2tik1/ml-case-studies/tree/master/classification/Loan-status.ipynb)
-
-  - Deep Learning : 
-     - [Multi Layer Perceptron](https://github.com/pr2tik1/ml-case-studies/tree/master/neural-networks/mlp_example.py)
-     - [Backpropagation](https://github.com/pr2tik1/ml-case-studies/tree/master/neural-networks/backprop_example.py)
-     - [Gradient Descent](https://github.com/pr2tik1/ml-case-studies/tree/master/neural-networks/gradient_example.py)
-     - [Student Admission Notebook](https://github.com/pr2tik1/ml-case-studies/tree/master/neural-networks/StudentAdmissions.ipynb)
-         
-     - Student Admission Script (.py files):
-        - <a href="https://github.com/pr2tik1/ml-case-studies/tree/master/neural-networks/data_prep.py">Data Preparation</a><br/>
-        - <a href="https://github.com/pr2tik1/ml-case-studies/tree/master/neural-networks/nn_admit.py">N/N without Learning</a><br/>
-        - <a href="https://github.com/pr2tik1/ml-case-studies/tree/master/neural-networks/nn_admit_backprop.py">N/N with Learning</a><br/>
-	
-    - Sentimental Analysis :
-      - <a href="https://github.com/pr2tik1/ml-case-studies/tree/master/neural-networks/movie-sentiment/sentiment-analysis.ipynb">Senitmental Analysis over Movie Recommendation</a><br/>
-      
-    - Regression Analysis using MLP :
-      - <a href="https://github.com/pr2tik1/ml-case-studies/tree/master/neural-networks/house-price/house-price.ipynb">Advanced Regression using neural network</a><br/>
-    
-    - Character Level predictions using LSTM :
-      - <a href="https://github.com/pr2tik1/ml-case-studies/tree/master/neural-networks/char-LSTM/Character_Level_LSTM.ipynb">LSTM</a><br/>
-
-  - AWS SageMaker:
-    - [Population Segemntation of US Census data](https://github.com/pr2tik1/ml-case-studies/tree/master/aws-sagemaker/Pop_Segmentation.ipynb)
-    - [Fraud Detection](https://github.com/pr2tik1/ml-case-studies/tree/master/aws-sagemaker/fraud-detection.ipynb)
-    - [Time Series Forecasting](https://github.com/pr2tik1/ml-case-studies/tree/master/aws-sagemaker/energy-consumption.ipynb)
-  
-  - PyTorch Notebooks:
-    - [Linear Regression](https://github.com/pr2tik1/ml-case-studies/tree/master/PyTorch/Linear-Regression.ipynb)
-    - [Logistic Regression](https://github.com/pr2tik1/ml-case-studies/tree/master/PyTorch/Logistic-Regression.ipynb)
-    - [Multi Layered Perceptron](https://github.com/pr2tik1/ml-case-studies/tree/master/PyTorch/Neural-Nework.ipynb)
-    - [CNN](https://github.com/pr2tik1/ml-case-studies/tree/master/PyTorch/CNN.ipynb)
     
 ## Usage 
 The notebooks and scripts can be used for reference and education purposes, to access download directly the zip file or type following command in terminal,
