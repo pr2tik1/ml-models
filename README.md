@@ -18,14 +18,14 @@ Install following libraries before using,
 ## Directory:
 
   - Regression :
-    - [Univariate Linear Regression](https://github.com/pr2tik1/ml-case-studies/blob/master/regression/linear_reg_one_var.ipynb)
-    - [Multivariate Linear Regression](https://github.com/pr2tik1/ml-case-studies/blob/master/regression/linear_reg_multi.ipynb)
+    - [Univariate Linear Regression](https://github.com/pr2tik1/ml-case-studies/blob/master/regression/linear-regression/linear_reg_one_var.ipynb)
+    - [Multivariate Linear Regression](https://github.com/pr2tik1/ml-case-studies/blob/master/regression/linear-regression/linear_reg_multi.ipynb)
     - [House Price Prediction](https://github.com/pr2tik1/ml-case-studies/blob/master/regression/houseprice_predicion.ipynb)
     - [Kaplan-Meier estimation in Survival Analysis](https://github.com/pr2tik1/ml-case-studies/blob/master/regression/km)
     
   - Classification :
-    - [Logistic Regression (Binary Class)](https://github.com/pr2tik1/ml-case-studies/tree/master/classification/logistic_binary_class.ipynb)
-    - [Logistic Regression (Multi Class)](https://github.com/pr2tik1/ml-case-studies/tree/master/classification/logistic_multi_class.ipynb)
+    - [Logistic Regression (Binary Class)](https://github.com/pr2tik1/ml-case-studies/tree/master/classification/logistic-regression/logistic_binary_class.ipynb)
+    - [Logistic Regression (Multi Class)](https://github.com/pr2tik1/ml-case-studies/tree/master/classification/logistic-regression/logistic_multi_class.ipynb)
     - [Titanic Survival Prediction](https://github.com/pr2tik1/ml-case-studies/tree/master/classification/titanic-eda.ipynb)
     - [Loan Status Prediction](https://github.com/pr2tik1/ml-case-studies/tree/master/classification/Loan-status.ipynb)
 
