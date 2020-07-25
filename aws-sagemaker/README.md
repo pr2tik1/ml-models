@@ -33,7 +33,15 @@ matplotlib
 numpy
 pandas
 ```
-
+# Directory
+```bash
+|-- aws-sagemaker
+|   |-- Pop_Segmentation.ipynb
+|   |-- README.md
+|   |-- energy-consumption.ipynb
+|   |-- fraud-detection.ipynb
+|   `-- txt_preprocessing.py
+```
 # Caution
 Delete the endpoint after the process of prediction/analysis is done.
 
