@@ -14,15 +14,63 @@ Install following libraries before using,
   - boto3
   - mxnet
   - PyTorch
-  
-
-    
+      
 ## Usage 
 The notebooks and scripts can be used for reference and education purposes, to access download directly the zip file or type following command in terminal,
 ```
 git clone https://github.com/pr2tik1/ml-case-studies.git
 ```
 
+### Directories
+
+```bash
+|-- LICENSE.txt
+|-- PyTorch
+|   |-- CNN.ipynb
+|   |-- Linear-Regression.ipynb
+|   |-- Logistic-Regression.ipynb
+|   |-- Neural-Nework.ipynb
+|   |-- PyTorch-Intro.ipynb
+|   |-- README.md
+|   |-- data_utils.py
+|   `-- datasets
+|-- README.md
+|-- aws-sagemaker
+|   |-- Pop_Segmentation.ipynb
+|   |-- README.md
+|   |-- energy-consumption.ipynb
+|   |-- fraud-detection.ipynb
+|   `-- txt_preprocessing.py
+|-- classification
+|   |-- README.md
+|   |-- data
+|   |-- kaggle
+|   |-- logistic-regression
+|   `-- wine-quality
+|-- neural-networks
+|   |-- README.md
+|   |-- char-LSTM
+|   |-- data
+|   |-- house-price
+|   |-- log-reg-with-nn-mindset
+|   |-- mlp
+|   |-- movie-sentiment
+|   `-- student
+|-- regression
+|   |-- README.md
+|   |-- adv-reg-house-price
+|   |-- data
+|   `-- linear-regression
+`-- survival-analysis
+    |-- 1.png
+    |-- 2.png
+    |-- 3.png
+    |-- README.md
+    |-- TzLk8.png
+    |-- df.csv
+    |-- img.png
+    `-- kaplan-meier.ipynb
+```
 *Contributions and suggestions are welcome*
 
 ## Author
