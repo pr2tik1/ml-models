@@ -199,10 +199,16 @@ def model(X_train, Y_train, X_test, Y_test, num_iterations = 2000, learning_rate
 
 
 if __name__ == "__main__":
-    learning_rates = [0.01, 0.001, 0.0001]
+    n = int(input("Enter the number of learning rates...\n"))
+    print("Enter learning rate...\n")
+    learning_rates = []
+    for _ in range(0,n):
+    	elements = float(input())
+    	learning_rates.append(elements)
+    #learning_rates = [0.01, 0.001, 0.0001]
     models = {}
     for i in learning_rates:
-        print ("Learning rate is: " + str(i))
+        print ("Learning rate: " + str(i))
         models[str(i)] = model(train_set_x, train_set_y, test_set_x, test_set_y, num_iterations = 2000, learning_rate = i, print_cost = False)
         print ('\n' + "-------------------------------------------------------" + '\n')
 
