@@ -3,18 +3,22 @@
 Machine Learning models developed for predictive analysis over data sets from Kaggle, Google Datasearch, etc. The repository is maintained to keep practice over the wide range of machine learning and deep learning models. The models are developed from scratch as well as suitable libraries and frameworks.
 
 ### Pre-requisites:
-Install following libraries before using,
-  - Scikit-Learn
-  - Numpy
-  - Pandas
-  - Matplotlib
-  - Seaborn
-  - Plolty-express
-  - SageMaker
-  - boto3
-  - mxnet
-  - PyTorch
-      
+<details>
+<summary>Tools and Libraries needed: </summary>
+
++ Scikit-Learn
++ Numpy
++ Pandas
++ Matplotlib
++ Seaborn
++ Plolty-express
++ SageMaker
++ boto3
++ mxnet
++ PyTorch
+
+</details>
+
 ## Usage 
 The notebooks and scripts can be used for reference and education purposes, to access download directly the zip file or type following command in terminal,
 ```
