@@ -15,6 +15,8 @@ The machine learning cases with classification technqiues ranging from binary to
 |   |   |-- titanic_test.csv
 |   |   |-- titanic_train.csv
 |   |   `-- train_v1.csv
+|   |-- k-means
+|   |   |--K-Means.ipynb
 |   |-- kaggle
 |   |   |-- Loan-status.ipynb
 |   |   `-- titanic-eda.ipynb
