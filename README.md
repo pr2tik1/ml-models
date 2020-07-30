@@ -37,3 +37,4 @@ git clone https://github.com/pr2tik1/ml-case-studies.git
 -	Kaggle
 -	Coursera
 
+# W.I.P.
