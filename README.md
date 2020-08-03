@@ -25,6 +25,54 @@ The notebooks and scripts can be used for reference and education purposes, to a
 git clone https://github.com/pr2tik1/ml-case-studies.git
 ```
 
+## Directory
+<details>
+  <summary>Contents:</summary>
+
+```bash
+|-- LICENSE.txt
+|-- README.md
+|-- aws-sagemaker
+|   |-- Pop_Segmentation.ipynb
+|   |-- README.md
+|   |-- energy-consumption.ipynb
+|   |-- fraud-detection.ipynb
+|   `-- txt_preprocessing.py
+|-- neural-networks
+|   |-- README.md
+|   |-- char-LSTM
+|   |-- data
+|   |-- house-price
+|   |-- log-reg-with-nn-mindset
+|   |-- mlp
+|   |-- movie-sentiment
+|   |-- ocr
+|   `-- student
+|-- pytorch
+|   |-- CNN.ipynb
+|   |-- Linear-Regression.ipynb
+|   |-- Logistic-Regression.ipynb
+|   |-- Neural-Nework.ipynb
+|   |-- PyTorch-Intro.ipynb
+|   |-- README.md
+|   |-- captch-recognition
+|   |-- data_utils.py
+|   `-- datasets
+|-- supervised
+|   |-- classification
+|   `-- regression
+|-- survival-analysis
+|   |-- README.md
+|   |-- df.csv
+|   |-- images
+|   `-- kaplan-meier.ipynb
+`-- unsupervised
+    `-- k-means
+```
+
+</details>
+
+
 *Contributions and suggestions are welcome*
 
 ## Author
