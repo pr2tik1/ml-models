@@ -30,6 +30,7 @@ git clone https://github.com/pr2tik1/ml-case-studies.git
   <summary>Contents:</summary>
 
 ```bash
+.
 |-- LICENSE.txt
 |-- README.md
 |-- aws-sagemaker
@@ -38,16 +39,8 @@ git clone https://github.com/pr2tik1/ml-case-studies.git
 |   |-- energy-consumption.ipynb
 |   |-- fraud-detection.ipynb
 |   `-- txt_preprocessing.py
-|-- neural-networks
-|   |-- README.md
-|   |-- char-LSTM
-|   |-- data
-|   |-- house-price
-|   |-- log-reg-with-nn-mindset
-|   |-- mlp
-|   |-- movie-sentiment
-|   |-- ocr
-|   `-- student
+|-- intro-dl
+|   `-- week01_pa.ipynb
 |-- pytorch
 |   |-- CNN.ipynb
 |   |-- Linear-Regression.ipynb
@@ -60,11 +53,16 @@ git clone https://github.com/pr2tik1/ml-case-studies.git
 |   `-- datasets
 |-- supervised
 |   |-- classification
+|   |-- neural-networks
 |   `-- regression
 |-- survival-analysis
+|   |-- 1.png
+|   |-- 2.png
+|   |-- 3.png
 |   |-- README.md
+|   |-- TzLk8.png
 |   |-- df.csv
-|   |-- images
+|   |-- img.png
 |   `-- kaplan-meier.ipynb
 `-- unsupervised
     `-- k-means
