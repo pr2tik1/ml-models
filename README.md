@@ -31,41 +31,52 @@ git clone https://github.com/pr2tik1/ml-case-studies.git
 
 ```bash
 .
-|-- LICENSE.txt
-|-- README.md
-|-- aws-sagemaker
-|   |-- Pop_Segmentation.ipynb
-|   |-- README.md
-|   |-- energy-consumption.ipynb
-|   |-- fraud-detection.ipynb
-|   `-- txt_preprocessing.py
-|-- intro-dl
-|   `-- week01_pa.ipynb
-|-- pytorch
-|   |-- CNN.ipynb
-|   |-- Linear-Regression.ipynb
-|   |-- Logistic-Regression.ipynb
-|   |-- Neural-Nework.ipynb
-|   |-- PyTorch-Intro.ipynb
-|   |-- README.md
-|   |-- captch-recognition
-|   |-- data_utils.py
-|   `-- datasets
-|-- supervised
-|   |-- classification
-|   |-- neural-networks
-|   `-- regression
-|-- survival-analysis
-|   |-- 1.png
-|   |-- 2.png
-|   |-- 3.png
-|   |-- README.md
-|   |-- TzLk8.png
-|   |-- df.csv
-|   |-- img.png
-|   `-- kaplan-meier.ipynb
-`-- unsupervised
-    `-- k-means
+├── aws-sagemaker
+│   ├── energy-consumption.ipynb
+│   ├── fraud-detection.ipynb
+│   ├── Pop_Segmentation.ipynb
+│   ├── README.md
+│   └── txt_preprocessing.py
+├── classification
+│   ├── data
+│   ├── logistic-regression
+│   └── README.md
+├── intro-dl
+│   ├── mnist_with_keras.ipynb
+│   └── week01_pa.ipynb
+├── k-means
+│   ├── data
+│   └── K-Means.ipynb
+├── LICENSE.txt
+├── neural-networks
+│   ├── char-LSTM
+│   ├── data
+│   ├── house-price
+│   ├── log-reg-with-nn-mindset
+│   ├── mlp
+│   ├── movie-sentiment
+│   ├── README.md
+│   └── student
+├── pytorch
+│   ├── CNN.ipynb
+│   ├── datasets
+│   ├── data_utils.py
+│   ├── Linear-Regression.ipynb
+│   ├── Logistic-Regression.ipynb
+│   ├── Neural-Nework.ipynb
+│   ├── PyTorch-Intro.ipynb
+│   └── README.md
+├── README.md
+├── regression
+│   ├── adv-reg-house-price
+│   ├── data
+│   ├── linear-regression
+│   └── README.md
+└── survival-analysis
+    ├── df.csv
+    ├── img.png
+    ├── kaplan-meier.ipynb
+    └── README.md
 ```
 
 </details>
