@@ -32,51 +32,51 @@ git clone https://github.com/pr2tik1/ml-case-studies.git
 ```bash
 .
 ├── aws-sagemaker
-│   ├── energy-consumption.ipynb
-│   ├── fraud-detection.ipynb
-│   ├── Pop_Segmentation.ipynb
-│   ├── README.md
-│   └── txt_preprocessing.py
+│   ├── energy-consumption.ipynb
+│   ├── fraud-detection.ipynb
+│   ├── Pop_Segmentation.ipynb
+│   ├── README.md
+│   └── txt_preprocessing.py
 ├── classification
-│   ├── data
-│   ├── logistic-regression
-│   └── README.md
-├── intro-dl
-│   ├── mnist_with_keras.ipynb
-│   └── week01_pa.ipynb
+│   ├── data
+│   ├── logistic-regression
+│   └── README.md
 ├── k-means
-│   ├── data
-│   └── K-Means.ipynb
+│   ├── data
+│   └── K-Means.ipynb
+├── k-nearest-neighbour
+│   ├── data.txt
+│   ├── data_utils.py
+│   ├── knn.ipynb
+│   ├── knn.py
+│   ├── __pycache__
+│   ├── README.md
+│   └── targets.txt
 ├── LICENSE.txt
 ├── neural-networks
-│   ├── char-LSTM
-│   ├── data
-│   ├── house-price
-│   ├── log-reg-with-nn-mindset
-│   ├── mlp
-│   ├── movie-sentiment
-│   ├── README.md
-│   └── student
-├── pytorch
-│   ├── CNN.ipynb
-│   ├── datasets
-│   ├── data_utils.py
-│   ├── Linear-Regression.ipynb
-│   ├── Logistic-Regression.ipynb
-│   ├── Neural-Nework.ipynb
-│   ├── PyTorch-Intro.ipynb
-│   └── README.md
+│   ├── char-LSTM
+│   ├── data
+│   ├── house-price
+│   ├── log-reg-with-nn-mindset
+│   ├── mlp
+│   ├── movie-sentiment
+│   ├── README.md
+│   └── student
 ├── README.md
 ├── regression
-│   ├── adv-reg-house-price
-│   ├── data
-│   ├── linear-regression
-│   └── README.md
+│   ├── adv-reg-house-price
+│   ├── data
+│   ├── linear-regression
+│   └── README.md
 └── survival-analysis
+    ├── 1.png
+    ├── 2.png
+    ├── 3.png
     ├── df.csv
     ├── img.png
     ├── kaplan-meier.ipynb
-    └── README.md
+    ├── README.md
+    └── TzLk8.png
 ```
 
 </details>
