@@ -45,10 +45,10 @@ git clone https://github.com/pr2tik1/ml-case-studies.git
 │   └── logistic_multi_class.ipynb
 ├── README.md
 ├── regression
-│   ├── adv-reg-house-price
-│   ├── data
-│   ├── linear-regression
-│   └── README.md
+│   ├── adv-reg-house-price
+│   ├── data
+│   ├── linear-regression
+│   └── README.md
 └── survival-analysis
     ├── 1.png
     ├── 2.png
