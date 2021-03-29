@@ -3,7 +3,7 @@
 Machine Learning models developed for predictive analysis over data sets from Kaggle, Google Datasearch, etc. This repository is maintained to keep practice over the wide range of machine learning and deep learning models. The models are developed from scratch or directly imported from suitable libraries and frameworks.
 
 ### Pre-requisites:
-<details>
+<details open>
 <summary>Tools and Libraries needed: </summary>
 
 + Scikit-Learn
@@ -12,10 +12,6 @@ Machine Learning models developed for predictive analysis over data sets from Ka
 + Matplotlib
 + Seaborn
 + Plolty-express
-+ SageMaker
-+ boto3
-+ mxnet
-+ PyTorch
 
 </details>
 
@@ -26,46 +22,27 @@ git clone https://github.com/pr2tik1/ml-case-studies.git
 ```
 
 ## Directory
-<details>
+<details open>
   <summary>Contents:</summary>
 
 ```bash
 .
-├── aws-sagemaker
-│   ├── energy-consumption.ipynb
-│   ├── fraud-detection.ipynb
-│   ├── Pop_Segmentation.ipynb
-│   ├── README.md
-│   └── txt_preprocessing.py
-├── classification
-│   ├── data
-│   ├── logistic-regression
-│   └── README.md
-├── intro-dl
-│   ├── mnist_with_keras.ipynb
-│   └── week01_pa.ipynb
 ├── k-means
 │   ├── data
 │   └── K-Means.ipynb
-├── LICENSE.txt
-├── neural-networks
-│   ├── char-LSTM
-│   ├── data
-│   ├── house-price
-│   ├── log-reg-with-nn-mindset
-│   ├── mlp
-│   ├── movie-sentiment
-│   ├── README.md
-│   └── student
-├── pytorch
-│   ├── CNN.ipynb
-│   ├── datasets
+├── k-nearest-neighbour
+│   ├── data.txt
 │   ├── data_utils.py
-│   ├── Linear-Regression.ipynb
-│   ├── Logistic-Regression.ipynb
-│   ├── Neural-Nework.ipynb
-│   ├── PyTorch-Intro.ipynb
-│   └── README.md
+│   ├── knn.ipynb
+│   ├── knn.py
+│   ├── __pycache__
+│   ├── README.md
+│   └── targets.txt
+├── LICENSE.txt
+├── logistic-regression
+│   ├── data
+│   ├── logistic_binary_class.ipynb
+│   └── logistic_multi_class.ipynb
 ├── README.md
 ├── regression
 │   ├── adv-reg-house-price
@@ -73,10 +50,17 @@ git clone https://github.com/pr2tik1/ml-case-studies.git
 │   ├── linear-regression
 │   └── README.md
 └── survival-analysis
+    ├── 1.png
+    ├── 2.png
+    ├── 3.png
     ├── df.csv
     ├── img.png
     ├── kaplan-meier.ipynb
-    └── README.md
+    ├── README.md
+    └── TzLk8.png
+
+11 directories, 20 files
+
 ```
 
 </details>
@@ -93,5 +77,3 @@ git clone https://github.com/pr2tik1/ml-case-studies.git
 -	CS231n 
 -	Kaggle
 -	Coursera
-
-# W.I.P.
