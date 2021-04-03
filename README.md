@@ -1,4 +1,4 @@
-# Machine Learning Case Studies
+# Machine Learning Models 
 
 Machine Learning models developed for predictive analysis over data sets from Kaggle, Google Datasearch, etc. This repository is maintained to keep practice over the wide range of machine learning and deep learning models. The models are developed from scratch or directly imported from suitable libraries and frameworks.
 
@@ -6,67 +6,20 @@ Machine Learning models developed for predictive analysis over data sets from Ka
 <details open>
 <summary>Tools and Libraries needed: </summary>
 
-+ Scikit-Learn
 + Numpy
 + Pandas
 + Matplotlib
 + Seaborn
-+ Plolty-express
++ Plolty
 
 </details>
 
 ## Usage 
-The notebooks and scripts can be used for reference and education purposes, to access download directly the zip file or type following command in terminal,
+The notebooks and scripts can be used for reference and education purposes.
+
 ```
 git clone https://github.com/pr2tik1/ml-case-studies.git
 ```
-
-## Directory
-<details open>
-  <summary>Contents:</summary>
-
-```bash
-.
-├── k-means
-│   ├── data
-│   └── K-Means.ipynb
-├── k-nearest-neighbour
-│   ├── data.txt
-│   ├── data_utils.py
-│   ├── knn.ipynb
-│   ├── knn.py
-│   ├── __pycache__
-│   ├── README.md
-│   └── targets.txt
-├── LICENSE.txt
-├── logistic-regression
-│   ├── data
-│   ├── logistic_binary_class.ipynb
-│   └── logistic_multi_class.ipynb
-├── README.md
-├── regression
-│   ├── adv-reg-house-price
-│   ├── data
-│   ├── linear-regression
-│   └── README.md
-└── survival-analysis
-    ├── 1.png
-    ├── 2.png
-    ├── 3.png
-    ├── df.csv
-    ├── img.png
-    ├── kaplan-meier.ipynb
-    ├── README.md
-    └── TzLk8.png
-
-11 directories, 20 files
-
-```
-
-</details>
-
-
-*Contributions and suggestions are welcome*
 
 ## Author
 
